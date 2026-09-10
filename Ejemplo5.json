@@ -1,0 +1,12 @@
+{
+  "id": 101,
+  "nombre": "Laptop Lenovo",
+  "precio": 2500000,
+  "disponible": true,
+  "categoria": "Computadores",
+  "fabricante": {
+    "nombre": "Lenovo",
+    "pais": "China",
+    "website": "https://www.lenovo.com"
+  }
+}
